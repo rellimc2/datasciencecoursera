@@ -1,0 +1,4 @@
+datasciencecoursera
+===================
+
+Stuff for Coursera
